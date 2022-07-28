@@ -1,0 +1,11 @@
+{
+  "name": "easy_learning",
+  "version": "1.0.0",
+  "description": "一些简单的vue自定义指令",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yz.fu",
+  "license": "ISC"
+}
